@@ -8,7 +8,7 @@
 
 1. Recreate the demo video provided for this exercise
 2. Using an input field, fetch the city data first and then the weather data. Pass the longitude and latitude from the city data as parameters to fetch the weather
-3. The webpage will turn dark if it is currently night time in the city. Also, use the `day.jpg` and `night.jpg` as background images depending on if it is day or night (Hint: There's a property called `is_day` in the weather data)
+3. The webpage will turn dark if it is currently night time in the city. Also, use the `day.jpg` and `night.jpg` as background images depending on if it is day or night (**Hint:** There's a property called `is_day` in the weather data)
 4. Commit and push your changes once done
 
 ## API Endpoints
